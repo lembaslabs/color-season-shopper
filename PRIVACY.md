@@ -1,6 +1,6 @@
 # Privacy Policy for Color Season Shopper
 
-**Last Updated:** December 22, 2025
+**Last Updated:** December 29, 2025
 
 ## Overview
 
@@ -76,10 +76,11 @@ You have complete control over your data:
 
 ## Data Retention
 
-- Data is stored indefinitely until you delete it
-- No automatic deletion or expiration
-- Uninstalling the extension removes all local data immediately
-- If Chrome Sync is enabled, synced data follows Google's Chrome Sync policies
+- **Automatic cleanup:** Colors are automatically deleted when you close all tabs for a website domain
+- **Session-based storage:** Data persists only while you have tabs open for that domain
+- **Example:** If you pick colors from amazon.com/item1 and amazon.com/item2, those colors are kept until you close all amazon.com tabs
+- **Manual deletion:** You can also delete individual colors or entire website collections at any time
+- **Uninstalling:** Removes all local data immediately
 
 ## Children's Privacy
 
